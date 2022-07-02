@@ -1,4 +1,4 @@
-### Olá! Eu sou o Mickaias Kawã
+### Olá! Eu sou o Mickaias Kawã 👾🤖
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mickaias-kaw%C3%A3-348340233/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kawa.vidal/)
