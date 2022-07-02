@@ -1,18 +1,26 @@
-### Olá! Eu sou o Mickaias Kawã 👾🤖👾
+<div align="center"> ### Olá! Eu sou o Mickaias Kawã 👾🤖👾</div>
+
+
+<div align="center" valign="top"><br>
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mickaias-kaw%C3%A3-348340233/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kawa.vidal/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kawa4i20)
 
+ </div><br/>
 
+<div align="center">
   <a href="https://github.com/mickaias">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mickaias&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dark"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mickaias&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duribeiro&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
 </div>
 <div style="display: inline_block"><br>
   
-## Tecnologias que uso no meu dia 
+<div align="center">## Tecnologias que uso no meu dia </div>
 
+
+<div align="center" valign="top"><br>
 <div style="display: inline_block">
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -25,3 +33,7 @@
 
 ![Snake animation](https://github.com/mickaias/mickaias/blob/output/github-contribution-grid-snake.svg)
 
+<div align="center">
+  <p>Feito com :heart: e JavaScript.</p>
+  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
+</div>
