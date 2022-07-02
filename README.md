@@ -23,3 +23,5 @@
   </div><br/>
 
 
+![Snake animation](https://github.com/mickaias/mickaias/blob/output/github-contribution-grid-snake.svg)
+
